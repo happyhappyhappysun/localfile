@@ -6,3 +6,6 @@ good good study!
 haha
 第三次修改
 nihao china
+git is good！
+git is very good!
+git is very very good!
